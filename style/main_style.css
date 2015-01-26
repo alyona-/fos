@@ -1,0 +1,43 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+
+table {
+	text-align:center;
+}
+td {
+	width:100px;
+	height:20px;
+	border:1px solid #000;
+}
+.shtrih {
+	background-color:#9BB8B8;
+}
+.empty {
+}
+/*Дата занятия*/
+.date {
+	color:#0E0BB8;
+}
+/*Тема занятия*/
+.theme {
+
+}
+/*Комментарий*/
+.comment {
+	color:#66CC33;
+}
+tr:hover {
+	background-color:#B5B5B5;
+}
+
+
+.formula {
+	border: 1px solid #00BFFF;
+}
+.nb {
+	font-size:50px;
+	color:blue;
+}
