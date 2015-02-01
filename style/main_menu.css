@@ -1,0 +1,22 @@
+/*содержание*/
+.table_of_contents {
+    font-weight:bold;
+}
+.table_of_contents a {
+
+}
+.main_menu {
+    list-style: none;
+
+}
+.main_menu li a {
+    text-decoration: none;
+}
+.main_menu li {
+    display: inline;
+}
+#menu_content {
+    width:300px;
+    display: block;
+    margin: 0 auto;
+}
