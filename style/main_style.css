@@ -5,6 +5,7 @@ body {
 	padding:0;
 	font-family: sans-serif;
 /*	background:blue;  */
+	background: linear-gradient(top, #D7D7D7,#BED7D7);
 }
 
 table {
@@ -44,4 +45,9 @@ tr:hover {
 .nb {
 	font-size:50px;
 	color:blue;
+}
+
+.homeread {
+	color:red;
+	font-size: 20px;
 }

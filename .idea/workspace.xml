@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beead7ec-b55e-47f9-b1f7-7a4a133816a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1)18.12.2014_t.html" afterPath="$PROJECT_DIR$/1)18.12.2014_t.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3)25.12.2014_t.html" afterPath="$PROJECT_DIR$/3)25.12.2014_t.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/main_style.css" afterPath="$PROJECT_DIR$/style/main_style.css" />
     </list>
     <ignored path="fos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1)18.12.2014_t.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1)18.12.2014_t.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1)18.12.2014_t.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5025818" vertical-offset="847" max-vertical-offset="1887">
+            <state vertical-scroll-proportion="-43.807693" vertical-offset="0" max-vertical-offset="1887">
               <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3)25.12.2014_t.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3)25.12.2014_t.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7007042" vertical-offset="7847" max-vertical-offset="8551">
+              <caret line="485" column="34" selection-start-line="485" selection-start-column="34" selection-end-line="485" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/main_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="986">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -44,16 +65,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style/main_style.css" />
         <option value="$PROJECT_DIR$/style/main_menu.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style/buttons.css" />
         <option value="$PROJECT_DIR$/2)24.12.2014_w.html" />
-        <option value="$PROJECT_DIR$/3)25.12.2014_t.html" />
         <option value="$PROJECT_DIR$/4)14.01.2015_w.html" />
         <option value="$PROJECT_DIR$/21.01.2015_w.html" />
         <option value="$PROJECT_DIR$/5)15.01.2015_t.html" />
         <option value="$PROJECT_DIR$/1)18.12.2014_t.html" />
+        <option value="$PROJECT_DIR$/style/main_style.css" />
+        <option value="$PROJECT_DIR$/3)25.12.2014_t.html" />
       </list>
     </option>
   </component>
@@ -198,14 +219,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3)25.12.2014_t.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.568662" vertical-offset="0" max-vertical-offset="7837">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
@@ -246,14 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/main_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028006589" vertical-offset="0" max-vertical-offset="884">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style/main_menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53212523" vertical-offset="0" max-vertical-offset="607">
@@ -264,8 +269,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1)18.12.2014_t.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5025818" vertical-offset="847" max-vertical-offset="1887">
+        <state vertical-scroll-proportion="-43.807693" vertical-offset="0" max-vertical-offset="1887">
           <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/main_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="986">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3)25.12.2014_t.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7007042" vertical-offset="7847" max-vertical-offset="8551">
+          <caret line="485" column="34" selection-start-line="485" selection-start-column="34" selection-end-line="485" selection-end-column="34" />
           <folding />
         </state>
       </provider>
