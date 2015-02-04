@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beead7ec-b55e-47f9-b1f7-7a4a133816a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8)04.02.2015_w.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/img.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1)18.12.2014_t.html" afterPath="$PROJECT_DIR$/1)18.12.2014_t.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21.01.2015_w.html" afterPath="$PROJECT_DIR$/21.01.2015_w.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3)25.12.2014_t.html" afterPath="$PROJECT_DIR$/3)25.12.2014_t.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4)14.01.2015_w.html" afterPath="$PROJECT_DIR$/4)14.01.2015_w.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5)15.01.2015_t.html" afterPath="$PROJECT_DIR$/5)15.01.2015_t.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/main_menu.css" afterPath="$PROJECT_DIR$/style/main_menu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="beead7ec-b55e-47f9-b1f7-7a4a133816a5" name="Default" comment="" />
     <ignored path="fos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +37,7 @@
       <file leaf-file-name="8)04.02.2015_w.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/8)04.02.2015_w.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49119717" vertical-offset="3750" max-vertical-offset="4318">
+            <state vertical-scroll-proportion="1.3890845" vertical-offset="3240" max-vertical-offset="4318">
               <caret line="237" column="104" selection-start-line="237" selection-start-column="104" selection-end-line="237" selection-end-column="104" />
               <folding />
             </state>
@@ -382,7 +372,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8)04.02.2015_w.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49119717" vertical-offset="3750" max-vertical-offset="4318">
+        <state vertical-scroll-proportion="1.3890845" vertical-offset="3240" max-vertical-offset="4318">
           <caret line="237" column="104" selection-start-line="237" selection-start-column="104" selection-end-line="237" selection-end-column="104" />
           <folding />
         </state>
