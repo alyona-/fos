@@ -5,10 +5,31 @@
     <title></title>
 </head>
 <body>
+<!--
+<label>Введите количество процессов:</label><br>
+<input type="text" class="serv"><br>
+<button>Далее</button> -->
 <script>
     var i, j, sum=0;
     var serv = new Array();
-    v
+    var wait = new Array();
+    var obr = new Array();
+    serv.length=wait.length=obr.length=10;
+    var avewait =0.0,aveobr=0.0;
+    document.write('<p>Задан фиксированный квант времени v=2</p>');
+    var str = new String();
+    var body = document.body;
+    var serv_value = document.getElementsByClassName('serv_value')[0];
+
+    str='<label>Введите количество процессов:</label><br>'+
+    '<input type="text" class="serv_value"><br>'+
+    '<button class="next">Далее</button>';
+    body.innerHTML = str;
+    var next = document.getElementsByClassName('next')[0];
+    next.addEventListener('click',function(){
+        alert(serv_value.value);
+    },false);
+    //document.write('<p></p>')
 </script>
 </body>
 </html>
