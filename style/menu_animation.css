@@ -9,3 +9,16 @@
    }
 
 }
+/*поддержка Chrome*/
+@-webkit-keyframes anim {
+   from { /*Оформление элемента перед началом анимации*/
+     background:#7CC3E1;
+     width:50px;
+   }
+   
+   to { /*Оформление анимации перед концом анимации*/
+   background:#7CC3E1;
+     width:300px;
+   }
+
+}
