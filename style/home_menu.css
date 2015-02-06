@@ -1,0 +1,49 @@
+@import 'menu_animation.css';
+
+.all_content {
+   position:relative;
+   float:left;
+
+}
+/*
+.home_menu {
+    position: absolute;
+	right:0;
+    width:500px;
+	height:100%;
+	background:blue;
+	float:right;
+	
+}
+.home_menu :hover {
+   background:red;
+}  */
+
+
+.home_menu {
+   position: absolute;
+   right:0;
+   width:50px;
+   height:100%;
+   background:blue;
+   background:linear-gradient(to top,#598BFF,#B0C4DE);
+   
+   border:1px solid #000;
+   /*float:right; */		
+		}
+		
+.home_menu:hover {
+  background:#7CC3E1;
+  /*width:300px; */
+  -moz-animation:anim 2s linear 0s infinite alternate;
+}
+.home_menu p {
+   color: #D4D7E1;
+   font-weight:bold;
+   font-size:15px;
+   
+}
+.home_menu:hover p {
+	color: #1C1671;
+}
+
